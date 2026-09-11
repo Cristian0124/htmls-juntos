@@ -1,0 +1,201 @@
+[
+    {
+        "nombre": "Zapatillas Air Force 1 '07 De Hombre",
+        "marca": "Nike",
+        "precio": "$679.950",
+        "color": "Negro",
+        "talla": "10",
+        "tipo": "Casual",
+        "imagen": "https://www.kicks.com.co/media/catalog/product/c/w/cw2288-001-phsrh000-1000.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:&format=jpeg"
+    },
+
+    {
+        "nombre": "Nike Air Max Plus",
+        "marca": "Nike",
+        "precio": "190 dólares",
+        "color": "Blanco y negro",
+        "talla": "9",
+        "tipo": "Deportivo",
+        "imagen": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/08a43894-8cc4-4d3b-983e-048c79642197/WMNS+AIR+MAX+PLUS.png"
+    },
+
+    {
+        "nombre": "Nike Jr. Phantom 6 Low Academy",
+        "marca": "Nike",
+        "precio": "$394.950",
+        "color": "Negro y blanco",
+        "talla": "7",
+        "tipo": "Deportivo",
+        "imagen": "https://nikeco.vtexassets.com/arquivos/ids/1103159-1200-auto?v=639198103175300000&width=1200&height=auto&aspect=true"
+    },
+
+    {
+        "nombre": "Dunk Next Nature - Zapatillas",
+        "marca": "Nike",
+        "precio": "87,95 €",
+        "color": "Blanco y negro",
+        "talla": "9",
+        "tipo": "Casual",
+        "imagen": "https://img01.ztat.net/article/spp-media-p1/f699cffdf63f479bb708d4cbcc4cc4c1/dae2e8b670d64e95a48a4fc86064e4f6.jpg?imwidth=1800"
+    },
+
+    {
+        "nombre": "Zapatillas Nike Dunk Low SE Mujer Crudo",
+        "marca": "Nike",
+        "precio": "$289.999",
+        "color": "Crudo",
+        "talla": "7",
+        "tipo": "Casual",
+        "imagen": "https://www-cdn.solodeportes.com.ar/media/catalog/product/z/a/zapatillas-nike-dunk-low-se-mujer-crudo-510010hq7487600-1.jpg?width=700&height=700&store=solourbano&image-type=image"
+    },
+
+    {
+        "nombre": "Tenis Superstar",
+        "marca": "Adidas",
+        "precio": "$499.950",
+        "color": "Blanco",
+        "talla": "9",
+        "tipo": "Casual",
+        "imagen": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/5643ea9848e94c1da869fd176bd19128_9366/Tenis_Superstar_Blanco_IH8659_01_standard.jpg"
+    },
+
+    {
+        "nombre": "Tenis SL72 OG",
+        "marca": "Adidas",
+        "precio": "$494.955",
+        "color": "Granate",
+        "talla": "9",
+        "tipo": "Casual",
+        "imagen": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/165b45096e844a2ab690df26c65011eb_9366/Tenis_SL72_OG_Granate_IE3425_01_standard.jpg"
+    },
+
+    {
+        "nombre": "Tenis Samba OG",
+        "marca": "Adidas",
+        "precio": "$499.950",
+        "color": "Blanco",
+        "talla": "10",
+        "tipo": "Casual",
+        "imagen": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/25fd8f031d7e4c42a7776929f6574202_9366/Tenis_Samba_OG_Blanco_LB5567_01_00_standard.jpg"
+    },
+
+    {
+        "nombre": "Tenis de Running Runfalcon 5",
+        "marca": "Adidas",
+        "precio": "$251.955",
+        "color": "Negro",
+        "talla": "9",
+        "tipo": "Deportivo",
+        "imagen": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/aa0bd45abac541d29ff40b492e15cfa4_9366/Tenis_de_Running_Runfalcon_5_Negro_IH7758_HM1.jpg"
+    },
+
+    {
+        "nombre": "Tenis Barreda Decode",
+        "marca": "Adidas",
+        "precio": "$399.950",
+        "color": "Café",
+        "talla": "9",
+        "tipo": "Casual",
+        "imagen": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/3fcd303729584a38b8a9279afc1a6621_9366/Tenis_Barreda_Decode_Cafe_KJ4980_01_00_standard.jpg"
+    },
+
+    {
+        "nombre": "Tenis Skechers Glide Step Pro True Motion",
+        "marca": "Skechers",
+        "precio": "$459.950",
+        "color": "Blanco",
+        "talla": "8",
+        "tipo": "Deportivo",
+        "imagen": "https://cdn.baguer.co/uploads/2026/07/-blanco-134353BL.webp_2LRsFtjOohGsef2YwyIrBJQniJkCeA.webp"
+    },
+
+    {
+        "nombre": "Tenis Skechers 128941 NVBL Mujer",
+        "marca": "Skechers",
+        "precio": "$499.900",
+        "color": "Azul marino y blanco",
+        "talla": "7",
+        "tipo": "Deportivo",
+        "imagen": "https://planetasport.vtexassets.com/arquivos/ids/261389-1600-auto?v=639112816960700000&width=1600&height=auto&aspect=true"
+    },
+
+    {
+        "nombre": "Tenis Skechers Dama Negro Summits Quiet Dream",
+        "marca": "Skechers",
+        "precio": "$319.000",
+        "color": "Negro",
+        "talla": "7",
+        "tipo": "Deportivo",
+        "imagen": "https://draft.com.co/cdn/shop/files/imgi_15_150291_BBK_HERO_LG.webp?v=1774475268&width=720"
+    },
+
+    {
+        "nombre": "Tenis Skechers para Mujer 73690BBK",
+        "marca": "Skechers",
+        "precio": "$379.000",
+        "color": "Negro",
+        "talla": "7",
+        "tipo": "Deportivo",
+        "imagen": "https://frutafrescaco.vtexassets.com/arquivos/ids/115434344-1200-auto?v=639244755605800000&width=1200&height=auto&aspect=true"
+    },
+
+    {
+        "nombre": "Tenis Skechers Arch Fit 2.0 Big League",
+        "marca": "Skechers",
+        "precio": "$443.000",
+        "color": "Beige",
+        "talla": "8",
+        "tipo": "Deportivo",
+        "imagen": "https://media.falabella.com/falabellaCO/135485008_01/w=1200,h=1200,fit=pad"
+    },
+
+    {
+        "nombre": "Tenis PUMA Hombre Azules Peacoat Azul Blanco",
+        "marca": "Puma",
+        "precio": "$469.000",
+        "color": "Azul y blanco",
+        "talla": "9",
+        "tipo": "Casual",
+        "imagen": "https://draft.com.co/cdn/shop/files/9622a0_9360f599a4574cd68d3847226659eee9_mv2.webp?v=1763346955"
+    },
+
+    {
+        "nombre": "Tenis Puma Up Hombre Blanco",
+        "marca": "Puma",
+        "precio": "$289.990",
+        "color": "Blanco",
+        "talla": "9",
+        "tipo": "Casual",
+        "imagen": "https://media.falabella.com/falabellaCO/73262929_1/w=1200,h=1200,fit=pad"
+    },
+
+    {
+        "nombre": "Tenis Speedcat OG",
+        "marca": "Puma",
+        "precio": "100 dólares",
+        "color": "Negro",
+        "talla": "9",
+        "tipo": "Casual",
+        "imagen": "https://videos.puma.net/videos/398846/64/vid01/fnd/PNA/"
+    },
+
+    {
+        "nombre": "Puma Suede XL Tenis Negro de Hombre Lifestyle",
+        "marca": "Puma",
+        "precio": "$349.965",
+        "color": "Negro",
+        "talla": "10",
+        "tipo": "Casual",
+        "imagen": "https://prochampions.vtexassets.com/arquivos/ids/1009658/Puma-Suede-Xl-Tenis_395205-02_01.jpg?v=638614920032300000"
+    },
+
+    {
+        "nombre": "FAST-R NITRO Elite 3 Showtime",
+        "marca": "Puma",
+        "precio": "300 dólares",
+        "color": "Blanco y rojo",
+        "talla": "10",
+        "tipo": "Deportivo",
+        "imagen": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/313615/01/fnd/PNA/fmt/png/Tenis-de-running-para-hombre-FAST-R-NITRO-Elite-3-Showtime"
+    }
+]
