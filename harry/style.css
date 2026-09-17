@@ -1,7 +1,12 @@
 Body{
     margin: 0;
-    padding: 20px;
+    text-align: center;
     font-family: Times, sans-serif;
+    background-color: black;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKLWi_9Fs8aKh-YOzyeQWpLpXVTHagIoXOGYPEOMOWylbxqS45b-Agujdh&s=10");
+    background-size: 80% auto;
+    background-position: top center;
+    background-repeat: no-repeat;
 
 
 }
@@ -9,13 +14,15 @@ Body{
 h1{
     text-align: center;
     margin-bottom: 30px;
+    color: purple;
 }
 
     /*estructura de las tarjetas principales */
 
 #datosprincipal{
 
-
+        width: 90%;
+        margin: 20px auto;
 
         display: grid;
         grid-template-columns: repeat(4, 1fr);
@@ -26,8 +33,8 @@ h1{
 
 
 .card{
-    background-color: rgb(244, 27, 3);
-    border: 1px solid black;
+    background-color: rgb(98, 1, 61);
+    border: 3px solid rgb(152, 0, 155);
     border-radius: 10px;
     padding: 15px ;
     box-sizing: border-box;
@@ -43,14 +50,14 @@ h1{
 /* configuracion de imagen que se puede seleccionar */
 .imagen-personaje{
     cursor: pointer; 
-    transition: transform 0.3s; 
+    transition: transform 0.8s; 
 }
 .imagen-personaje:hover {
     transform: scale(1.05);
 }
-
+/*configuracion de letra de la tarjeta */
 .card h2{
-    color: black;
+    color: rgb(249, 246, 246);
     font-family: 'Times New Roman', Times, sans-serif;
     text-align: center;
 
@@ -70,7 +77,7 @@ h1{
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.75);
+    background-color: rgba(52, 0, 62, 0.75);
     justify-content: center;
     align-items: center;
     padding: 20px;
@@ -79,7 +86,7 @@ h1{
 
 /* recuadro de informacion de la ventana emergente */
 .modal-contenido {
-    background-color: white;
+    background-image:url("https://images.unsplash.com/photo-1475274047050-1d0c0975c63e?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"); /* rgb(117, 2, 2); */
     width: 80%;
     max-width: 900px;
     max-height: 85vh;
@@ -109,11 +116,13 @@ h1{
 .modal-informacion h2 {
     font-size: 30px;
     margin-top: 0;
+    color: white;
 }
 
 .modal-informacion p {
     font-size: 17px;
     line-height: 1.5;
+    color: yellow;
 }
 
 /* Botón X */
@@ -123,6 +132,7 @@ h1{
     right: 18px;
     font-size: 35px;
     cursor: pointer;
+    color: white;
 }
 
 /* Mensaje de error */
@@ -179,5 +189,3 @@ h1{
 
 
 }
-
-

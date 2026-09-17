@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Times, sans-serif;
+    background-color: #d3d3d3;
+}
+
+h1 {
+    color: black;
+}
+
+/* boton */
+
+#verPerfil {
+    padding: 12px 30px;
+    font-size: 18px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+/* tarjeta */
+
+#datos {
+    width: 80%;
+    margin: 40px auto;
+}
+
+#datos > div {
+    background-color: white;
+    width: 100%;
+    min-height: 350px;
+    padding: 30px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 10px;
+
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    text-align: left;
+}
+
+/* foto */
+
+.foto {
+    width: 35%;
+    text-align: center;
+}
+
+.foto img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+/* informacion */
+
+.informacion {
+    width: 65%;
+}
+
+.informacion h1 {
+    font-size: 20px;
+    margin: 10px 0 3px;
+}
+
+.informacion p {
+    font-size: 18px;
+    margin: 0 0 10px;
+}
